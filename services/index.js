@@ -34,7 +34,7 @@ export const getPosts = async () => {
     }
   `;
 
-    const result = request(graphqlAPI, query); // can't put await, why?
+    const result = await request(graphqlAPI, query);
 
-    return result.posts;
+    return result.postsConnection.edges;
 };

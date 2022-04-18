@@ -351,21 +351,21 @@
   dependencies:
     "function-bind" "^1.1.1"
 
-"html-dom-parser@1.1.1":
-  "integrity" "sha512-ddijSO0GluZEdlLNmiAjFI+CkAgzUgf8n3vpitQhvlsniPMbCSWtu+QYmioaVmEN0stytm9C38p6SsTDthv0cA=="
-  "resolved" "https://registry.npmjs.org/html-dom-parser/-/html-dom-parser-1.1.1.tgz"
-  "version" "1.1.1"
+"html-dom-parser@1.2.0":
+  "integrity" "sha512-2HIpFMvvffsXHFUFjso0M9LqM+1Lm22BF+Df2ba+7QHJXjk63pWChEnI6YG27eaWqUdfnh5/Vy+OXrNTtepRsg=="
+  "resolved" "https://registry.npmjs.org/html-dom-parser/-/html-dom-parser-1.2.0.tgz"
+  "version" "1.2.0"
   dependencies:
     "domhandler" "4.3.1"
     "htmlparser2" "7.2.0"
 
-"html-react-parser@^1.4.10":
-  "integrity" "sha512-GiG7mEwI0enY7hz0F0Zx1B4D0MCQWx2xH0KdVNV9fjqOXwwnPYM79meJ2dsIJf9QR4qQTTPEdSq7wlJfq/i6Tw=="
-  "resolved" "https://registry.npmjs.org/html-react-parser/-/html-react-parser-1.4.10.tgz"
-  "version" "1.4.10"
+"html-react-parser@^1.4.11":
+  "integrity" "sha512-NDSz8MS89I286N7FzNScBtCRBs6MU7w72k+jWk4dBqcTgTrCQHHrIUlryJB9U5MJuKhq5/CFGz0JPPYS6OnjZw=="
+  "resolved" "https://registry.npmjs.org/html-react-parser/-/html-react-parser-1.4.11.tgz"
+  "version" "1.4.11"
   dependencies:
     "domhandler" "4.3.1"
-    "html-dom-parser" "1.1.1"
+    "html-dom-parser" "1.2.0"
     "react-property" "2.0.0"
     "style-to-js" "1.1.0"
 
@@ -467,10 +467,10 @@
   "resolved" "https://registry.npmjs.org/minimist/-/minimist-1.2.6.tgz"
   "version" "1.2.6"
 
-"moment@^2.29.2":
-  "integrity" "sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg=="
-  "resolved" "https://registry.npmjs.org/moment/-/moment-2.29.2.tgz"
-  "version" "2.29.2"
+"moment@^2.29.3":
+  "integrity" "sha512-c6YRvhEo//6T2Jz/vVtYzqBzwvPT95JBQ+smCytzf7c50oMZRsR/a4w88aD34I+/QVSfnoAnSBFPJHItlOMJVw=="
+  "resolved" "https://registry.npmjs.org/moment/-/moment-2.29.3.tgz"
+  "version" "2.29.3"
 
 "nanoid@^3.1.30", "nanoid@^3.3.1":
   "integrity" "sha512-CuHBogktKwpm5g2sRgv83jEy2ijFzBwMoYA60orPDR7ynsLijJDqgsi4RDGj3OJpy3Ieb+LYwiRmIOGyytgITA=="
